@@ -1,13 +1,13 @@
-# 🎬 MovieClick – Movie Ticket Booking System
+# MovieClick – Movie Ticket Booking System
 
-## 📌 Overview
+##  Overview
 MovieClick is a full-stack web application developed to simplify the process of booking movie tickets online. The system allows users to browse available movies, select show timings, choose seats using an interactive layout, and confirm bookings in real time.
 
 The application is designed to provide a smooth, secure, and user-friendly experience while also enabling administrators to efficiently manage movies, shows, and bookings.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - To eliminate manual ticket booking processes
 - To provide real-time seat availability
 - To ensure secure and efficient booking
@@ -16,7 +16,7 @@ The application is designed to provide a smooth, secure, and user-friendly exper
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 ### 👤 User Features
 - User Registration and Login
